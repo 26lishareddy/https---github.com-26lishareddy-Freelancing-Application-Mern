@@ -1,5 +1,5 @@
 🚀 SB Works – Freelancing Application (MERN Stack)
-SB Works is a modern freelancing platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It bridges the gap between clients and skilled freelancers by providing a secure, transparent, and efficient environment for collaboration.
+ * SB Works is a modern freelancing platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It bridges the gap between clients and skilled freelancers by providing a secure, transparent, and efficient environment for collaboration.
 
 ✨ Key Features
 🧑‍💼 Clients can post diverse projects and select freelancers based on skills and past work.
